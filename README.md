@@ -50,3 +50,6 @@ python webui.py
 `--precision`: fp32(CPU only), fp16, int4(CUDA GPU only), int8(CUDA GPU only)
 
 `--cpu`: use cpu
+
+从零开始的ChatGLM 配置详细教程
+https://blog.csdn.net/qq_51116518/article/details/130299417?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-9-130299417-blog-130467770.235%5Ev38%5Epc_relevant_sort_base2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-9-130299417-blog-130467770.235%5Ev38%5Epc_relevant_sort_base2&utm_relevant_index=10
